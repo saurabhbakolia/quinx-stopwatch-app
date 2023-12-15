@@ -1,6 +1,6 @@
 # ScrollMe Stop Watch
 
-![ScrollMe Stop Watch Logo]
+ScrollMe Stop Watch Logo
 
 ## Overview
 
