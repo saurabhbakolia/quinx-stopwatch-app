@@ -1,7 +1,5 @@
 # ScrollMe Stop Watch
 
-ScrollMe Stop Watch Logo
-
 ## Overview
 
 ScrollMe Stop Watch is a simple stopwatch app built using Next.js and TypeScript.
