@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ScrollMe Stop Watch
+
+![ScrollMe Stop Watch Logo](https://quinx.scrollme.online/)
+
+## Overview
+
+ScrollMe Stop Watch is a simple stopwatch app built using Next.js and TypeScript.
+
+## Features
+
+- ⏱️ Start, stop, and reset the stopwatch.
+- 👆 Tap button for tracking multiple timestamps.
+- 📅 Timestamp history displayed in a clean table format.
+
+## Technologies Used
+
+- Next.js
+- TypeScript
+- React
+- React Query
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Run the app with `npm run dev`.
+4. Visit [http://localhost:3000](http://localhost:3000) to use the stopwatch.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Usage
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Click the "Tap" button to record timestamps.
+- Click the "Stop" button to stop the stopwatch and save timestamp history.
+- Click the "Reset" button to clear the stopwatch and timestamp history.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Contributing
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Feel free to contribute by submitting bug reports, feature requests, or pull requests.
 
-## Learn More
+## Live Demo
 
-To learn more about Next.js, take a look at the following resources:
+Explore the live version [here](https://quinx.scrollme.online/).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the [MIT License](LICENSE).
