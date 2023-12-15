@@ -1,6 +1,6 @@
 # ScrollMe Stop Watch
 
-![ScrollMe Stop Watch Logo](https://quinx.scrollme.online/)
+![ScrollMe Stop Watch Logo]
 
 ## Overview
 
