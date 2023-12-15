@@ -41,8 +41,6 @@ Feel free to contribute by submitting bug reports, feature requests, or pull req
 Explore the live version [here](https://quinx.scrollme.online/).
 # ScrollMe Stop Watch
 
-![ScrollMe Stop Watch Logo](https://quinx.scrollme.online/)
-
 ## Overview
 
 ScrollMe Stop Watch is a simple stopwatch app built using Next.js and TypeScript.
