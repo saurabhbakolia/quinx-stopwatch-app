@@ -81,5 +81,5 @@ Feel free to contribute by submitting bug reports, feature requests, or pull req
 
 Explore the live version [here](https://quinx.scrollme.online/).
 
-![image](https://github.com/saurabhbakolia/quinx-stopwatch-app/assets/78996216/9811fb7c-0420-4719-b769-a2df8d0e19ed)
+![image](https://github.com/saurabhbakolia/quinx-stopwatch-app/assets/78996216/905d14ca-b2b0-4504-b2ec-525005f40569)
 
